@@ -3,6 +3,15 @@
 
 Returns a directory based on specified app name and ensures its existence.
 
+## Installation
+<a href='https://npmjs.com/package/app-folder'><img alt='npm logo' src='https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.png' height=16/></a>
+```bash
+npm install --save app-folder@^
+```
+<a href='https://yarnpkg.com/package/app-folder'><img alt='Yarn logo' src='https://raw.githubusercontent.com/yarnpkg/assets/master/yarn-kitten-full.png' height=24/></a>
+```bash
+yarn add app-folder@^
+```
 
 
 ## Try it out
