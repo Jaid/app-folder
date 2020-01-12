@@ -1,34 +1,60 @@
 # app-folder
 
 
-Returns a directory based on specified app name and ensures its existence.
+<a href="https://raw.githubusercontent.com/Jaid/app-folder/master/license.txt"><img src="https://img.shields.io/github/license/Jaid/app-folder?style=flat-square" alt="License"/></a>  
+<a href="https://actions-badge.atrox.dev/Jaid/app-folder/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2FJaid%2Fapp-folder%2Fbadge" alt="Build status"/></a> <a href="https://github.com/Jaid/app-folder/commits"><img src="https://img.shields.io/github/commits-since/Jaid/app-folder/v1.0.1?style=flat-square&logo=github" alt="Commits since v1.0.1"/></a> <a href="https://github.com/Jaid/app-folder/commits"><img src="https://img.shields.io/github/last-commit/Jaid/app-folder?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/Jaid/app-folder/issues"><img src="https://img.shields.io/github/issues/Jaid/app-folder?style=flat-square&logo=github" alt="Issues"/></a>  
+<a href="https://npmjs.com/package/app-folder"><img src="https://img.shields.io/npm/v/app-folder?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/Jaid/app-folder/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/app-folder?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/app-folder"><img src="https://img.shields.io/npm/dm/app-folder?style=flat-square&logo=npm" alt="Downloads"/></a>
+
+**Returns a directory based on specified app name and ensures its existence.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Installation
-<a href='https://npmjs.com/package/app-folder'><img alt='npm logo' src='https://github.com/Jaid/action-readme/raw/master/images/base-assets/npm.png'/></a>
+<a href="https://npmjs.com/package/app-folder"><img src="https://img.shields.io/badge/npm-app--folder-C23039?style=flat-square&logo=npm" alt="app-folder on npm"/></a>
 ```bash
 npm install --save app-folder@^1.0.1
 ```
-<a href='https://yarnpkg.com/package/app-folder'><img alt='Yarn logo' src='https://github.com/Jaid/action-readme/raw/master/images/base-assets/yarn.png'/></a>
+<a href="https://yarnpkg.com/package/app-folder"><img src="https://img.shields.io/badge/Yarn-app--folder-2F8CB7?style=flat-square&logo=yarn&logoColor=white" alt="app-folder on Yarn"/></a>
 ```bash
 yarn add app-folder@^1.0.1
 ```
 
 
 
-## Documentation
-Returns a directory based on specified app name and ensures its existence
 
-**Kind**: Exported function  
-**Returns**: <code>string</code> - Full path of app folder  
 
-| Param | Type | Description |
-| --- | --- | --- |
-| ...name | <code>string</code> | Name of the name folder where multiple strings can be given for nested folders |
 
-**Example**  
-```javascript
-import appFolder from "app-folder"
-const folder = appFolder("My Company", "My App")
+
+
+## Development
+
+
+
+Setting up:
+```bash
+git clone git@github.com:Jaid/app-folder.git
+cd app-folder
+npm install
+```
+Testing:
+```bash
+npm run test:dev
+```
+Testing in production environment:
+```bash
+npm run test
 ```
 
 
@@ -36,7 +62,7 @@ const folder = appFolder("My Company", "My App")
 ```text
 MIT License
 
-Copyright © 2019, Jaid <jaid.jsx@gmail.com> (github.com/jaid)
+Copyright © 2020, Jaid <jaid.jsx@gmail.com> (github.com/jaid)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
