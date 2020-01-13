@@ -35,5 +35,6 @@
     "prepareActionJest": "npm run build:prod"
   },
   "name": "app-folder",
-  "description": "Returns a directory based on specified app name and ensures its existence."
+  "description": "Returns a directory based on specified app name and ensures its existence.",
+  "funding": "https://github.com/sponsors/jaid"
 }
