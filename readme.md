@@ -1,9 +1,9 @@
 # app-folder
 
 
-<a href="https://raw.githubusercontent.com/Jaid/app-folder/master/license.txt"><img src="https://img.shields.io/github/license/Jaid/app-folder?style=flat-square" alt="License"/></a>  
-<a href="https://actions-badge.atrox.dev/Jaid/app-folder/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2FJaid%2Fapp-folder%2Fbadge" alt="Build status"/></a> <a href="https://github.com/Jaid/app-folder/commits"><img src="https://img.shields.io/github/commits-since/Jaid/app-folder/v1.0.1?style=flat-square&logo=github" alt="Commits since v1.0.1"/></a> <a href="https://github.com/Jaid/app-folder/commits"><img src="https://img.shields.io/github/last-commit/Jaid/app-folder?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/Jaid/app-folder/issues"><img src="https://img.shields.io/github/issues/Jaid/app-folder?style=flat-square&logo=github" alt="Issues"/></a>  
-<a href="https://npmjs.com/package/app-folder"><img src="https://img.shields.io/npm/v/app-folder?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/Jaid/app-folder/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/app-folder?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/app-folder"><img src="https://img.shields.io/npm/dm/app-folder?style=flat-square&logo=npm" alt="Downloads"/></a>
+<a href="https://raw.githubusercontent.com/jaid/app-folder/master/license.txt"><img src="https://img.shields.io/github/license/jaid/app-folder?style=flat-square" alt="License"/></a> <a href="https://github.com/sponsors/jaid"><img src="https://img.shields.io/badge/<3-Sponsor-FF45F1?style=flat-square" alt="Sponsor app-folder"/></a>
+<a href="https://actions-badge.atrox.dev/jaid/app-folder/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2Fjaid%2Fapp-folder%2Fbadge" alt="Build status"/></a> <a href="https://github.com/jaid/app-folder/commits"><img src="https://img.shields.io/github/commits-since/jaid/app-folder/v1.0.1?style=flat-square&logo=github" alt="Commits since v1.0.1"/></a> <a href="https://github.com/jaid/app-folder/commits"><img src="https://img.shields.io/github/last-commit/jaid/app-folder?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/jaid/app-folder/issues"><img src="https://img.shields.io/github/issues/jaid/app-folder?style=flat-square&logo=github" alt="Issues"/></a>  
+<a href="https://npmjs.com/package/app-folder"><img src="https://img.shields.io/npm/v/app-folder?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/jaid/app-folder/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/app-folder?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/app-folder"><img src="https://img.shields.io/npm/dm/app-folder?style=flat-square&logo=npm" alt="Downloads"/></a>
 
 **Returns a directory based on specified app name and ensures its existence.**
 
@@ -37,14 +37,13 @@ yarn add app-folder@^1.0.1
 
 
 
-
 ## Development
 
 
 
 Setting up:
 ```bash
-git clone git@github.com:Jaid/app-folder.git
+git clone git@github.com:jaid/app-folder.git
 cd app-folder
 npm install
 ```
