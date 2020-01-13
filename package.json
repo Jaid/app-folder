@@ -36,5 +36,9 @@
   },
   "name": "app-folder",
   "description": "Returns a directory based on specified app name and ensures its existence.",
-  "funding": "https://github.com/sponsors/jaid"
+  "funding": "https://github.com/sponsors/jaid",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaid/app-folder"
+  }
 }
