@@ -41,5 +41,17 @@
     "url": "https://github.com/jaid/app-folder"
   },
   "homepage": "https://github.com/Jaid/app-folder",
-  "keywords": []
+  "keywords": [
+    "app-folder",
+    "folder",
+    "home-folder",
+    "lib",
+    "library",
+    "linux",
+    "mac",
+    "mac-os",
+    "util",
+    "utility",
+    "windows"
+  ]
 }
